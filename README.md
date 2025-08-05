@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Olá! Eu sou João
 
-<!--
-**joaopdrcode/joaopdrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
 
-Here are some ideas to get you started:
+- 💻 Atuo como Desenvolvedor Júnior
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Principais Tecnologias
+
+### 🎨 Frontend
+- HTML | CSS | JS
+- React
+- Angular
+- Bootstrap
+
+### 🔨 Backend
+- C#
+- Node.js
+
+### 📫 API | Integrações
+- REST | SOAP
+- ASP.NET
+ 
+### 📚 Banco de Dados
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
